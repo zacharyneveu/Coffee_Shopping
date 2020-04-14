@@ -1,5 +1,5 @@
 # About
-This repo contains code to scrape and analyze 1090 comments from a thread about exceptional coffee on [home-barista.com](https://www.home-barista.com/coffees/what-is-wow-ing-you-t22185.html). 
+While under quarantine, my coffee bean stash began to run low. Without a grocery store to turn to, I began a great online search to find the best bag of online coffee that I could get shipped to my house. This repo contains the results of my journey: code to scrape and analyze 1090 comments from a thread about exceptional coffee on [home-barista.com](https://www.home-barista.com/coffees/what-is-wow-ing-you-t22185.html).
 
 # Steps
 + Scrape posts and write to text files
